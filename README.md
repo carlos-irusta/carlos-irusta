@@ -1,17 +1,18 @@
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=26&duration=4000&pause=1200&color=DCD7BA&center=true&vCenter=true&width=700&lines=Carlos+Irusta;Full-Stack+Developer;Arch+Linux+•+Hyprland+•+Kanagawa" />
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=28&duration=4000&pause=1200&color=DCD7BA&center=true&vCenter=true&width=700&lines=Carlos+Irusta;Full-Stack+Developer;Arch+Linux+•+Hyprland+•+Kanagawa" />
 
 <br/>
 
-minimal software. calm workflows. clean architecture.
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=14&duration=6000&pause=0&color=727169&center=true&vCenter=true&width=600&lines=minimal+software.+calm+workflows.+clean+architecture." />
 
-<br/><br/>
+<br/>
 
 <a href="https://github.com/carlos-irusta/SGV">
   <img src="https://img.shields.io/badge/Current_Project-SGV-1f1f28?style=for-the-badge&logo=github&logoColor=c0caf5" />
 </a>
-<a href="#">
-  <img src="https://img.shields.io/badge/Portfolio-Coming_Soon-1f1f28?style=for-the-badge&logo=vercel&logoColor=7aa2f7" />
+<a href="https://portfolio-lilac-six-45.vercel.app/">
+  <img src="https://img.shields.io/badge/Portfolio-Live-1f1f28?style=for-the-badge&logo=vercel&logoColor=7aa2f7" />
 </a>
 <a href="#">
   <img src="https://img.shields.io/badge/Dotfiles-Coming_Soon-1f1f28?style=for-the-badge&logo=arch-linux&logoColor=7dcfff" />
@@ -66,7 +67,6 @@ Architecture  Clean · Scalable · Modular
 - dotfiles
 - hyprland rice
 - neovim setup
-- portfolio
 - development blog
 
 ---
@@ -79,7 +79,11 @@ Architecture  Clean · Scalable · Modular
 
 <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlos-irusta&layout=compact&theme=github_dark&hide_border=true&bg_color=00000000&title_color=dcd7ba&text_color=c8c093" />
 
-<br/><br/>
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=carlos-irusta&bg_color=1f1f28&color=dcd7ba&line=7e9cd8&point=c0caf5&area=true&hide_border=true" />
+
+<br/>
 
 `~/currently-building/sgv`
 
