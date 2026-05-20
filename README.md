@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=28&duration=4000&pause=1200&color=DCD7BA&center=true&vCenter=true&width=700&lines=Carlos+Irusta;Full-Stack+Developer;Arch+Linux+%E2%80%A2+Hyprland+%E2%80%A2+Kanagawa" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=28&duration=4000&pause=1200&color=DCD7BA&center=true&vCenter=true&width=700&lines=Carlos+Irusta;Full-Stack+Developer" />
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=14&duration=6000&pause=0&color=727169&center=true&vCenter=true&width=600&lines=minimal+software.+calm+workflows.+clean+architecture." />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=14&duration=6000&pause=0&color=727169&center=true&vCenter=true&width=600&lines=minimal+software.+calm+workflows.+scalable+systems." />
 
 <br/>
 
@@ -26,7 +26,7 @@
 
 building **SGV** — a sales management platform focused on:
 
-- clean architecture
+- modular architecture
 - scalable frontend structure
 - role-based auth
 - inventory & sales workflows
@@ -34,40 +34,31 @@ building **SGV** — a sales management platform focused on:
 
 ---
 
-## environment
-
-```txt
-OS          Arch Linux
-WM          Hyprland
-Editor      Neovim
-Shell       Fish
-Terminal    Kitty
-Theme       Kanagawa
-```
-
 ## stack
 
 ```txt
-Frontend      React · TypeScript · Tailwind
-Backend       Fastify · Node.js · PostgreSQL
-ORM           Prisma
+Frontend      React · Next.js · TypeScript · Tailwind
+Backend       Node.js · Express.js
+Database      PostgreSQL · Prisma
 Tooling       Git · Linux · Docker
-Architecture  Clean · Scalable · Modular
+AI Tooling    ChatGPT · Claude · OpenCode
+Architecture  Feature-based · Modular
+Terminal      Neovim · tmux · Fish
 ```
 
 ## currently learning
 
-- advanced backend architecture
+- scalable backend patterns
 - system design fundamentals
-- linux tooling & workflows
 - ui consistency & design systems
+- modern full-stack architecture
 
 ## coming soon
 
-- dotfiles
-- hyprland rice
-- neovim setup
 - development blog
+- dotfiles
+- neovim setup
+
 
 ---
 
