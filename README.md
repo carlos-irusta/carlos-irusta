@@ -73,15 +73,7 @@ Architecture  Clean · Scalable · Modular
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=carlos-irusta&show_icons=true&theme=github_dark&hide_border=true&bg_color=00000000&title_color=dcd7ba&text_color=c8c093&icon_color=7e9cd8" />
-
-<br/>
-
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlos-irusta&layout=compact&theme=github_dark&hide_border=true&bg_color=00000000&title_color=dcd7ba&text_color=c8c093" />
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=carlos-irusta&bg_color=1f1f28&color=dcd7ba&line=7e9cd8&point=c0caf5&area=true&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=carlos-irusta&theme=tokyonight-duo&hide_border=true&background=00000000&ring=7e9cd8&fire=dcd7ba&currStreakLabel=dcd7ba&sideLabels=727169&dates=727169&sideNums=c0caf5&currStreakNum=dcd7ba" />
 
 <br/>
 
