@@ -1,5 +1,3 @@
-<div align="center">
-
 ```text
 ┌──────────────────────────────────────┐
 │ Carlos Irusta                       │
@@ -39,4 +37,4 @@ stats
 <div align="center"> <img height="150" src="https://github-readme-stats.vercel.app/api?username=carlos-irusta&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=dcd7ba&text_color=c8c093&icon_color=7e9cd8" /> </div>
 <div align="center">
 ~/currently-building/sgv
-</div> ```
+```
