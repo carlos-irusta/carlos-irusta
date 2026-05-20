@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=28&duration=4000&pause=1200&color=DCD7BA&center=true&vCenter=true&width=700&lines=Carlos+Irusta;Full-Stack+Developer;Arch+Linux+•+Hyprland+•+Kanagawa" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=28&duration=4000&pause=1200&color=DCD7BA&center=true&vCenter=true&width=700&lines=Carlos+Irusta;Full-Stack+Developer;Arch+Linux+%E2%80%A2+Hyprland+%E2%80%A2+Kanagawa" />
 
 <br/>
 
